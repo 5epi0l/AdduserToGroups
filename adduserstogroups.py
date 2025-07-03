@@ -1,5 +1,5 @@
 """
-Author: @JulioUrena (modified for hash support)
+Author: @JulioUrena (modified for hash support by @5epi0l)
 License: GPL-3.0 license
 """
 
